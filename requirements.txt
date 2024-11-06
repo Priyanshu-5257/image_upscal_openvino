@@ -1,0 +1,6 @@
+openvino==2024.4.0
+gradio
+psutil
+pillow
+numpy
+gc-python-utils
